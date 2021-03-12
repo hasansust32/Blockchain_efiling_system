@@ -12,7 +12,7 @@
 
 
 ## Initialize blockchain environment
-1. `git clone https://github.com/JungWinter/file-on-blockchain`
+1. `git clone https://github.com/hasansust32/Blockchain_efiling_system
 2. `cd file-on-blockchain/blockchain`
 3. `./init.sh`
 4. `./start.sh`
